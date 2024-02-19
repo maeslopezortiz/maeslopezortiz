@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maeslopezortiz
 - 👀 I’m interested in Plant genetics and epigenetics
-- 🌱 I’m currently learning bioinformatics (python/Machine learning)
+- 🌱 I’m currently learning bioinformatics (Python/Machine learning)
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me mariestefi90@gmail.com
 - 😄 Pronouns: she/her
